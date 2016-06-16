@@ -1,0 +1,66 @@
+.button {
+	background-color: #00FFFF;
+	font-size: 20px;
+	height: 100px;
+	width: 400px;
+	display: block;
+	text-align: center;
+	margin: 0px auto;
+	border-radius: 8px;
+	border: 2px solid black;
+}
+
+.body {
+	background-color: ;
+	margin-top: 33px;
+	margin-left:25px;
+	margin-right:25px;
+	padding: 10px 50px 10px 50px;
+	border-style: inset;
+	border-width: 3px;
+}
+header {
+	
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 15px;
+}
+h5 {
+	font-size: 12px;
+}
+table {
+	border: 0;
+}
+table td {
+	border-right: 2px solid black;
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+tr:nth-child(odd) {
+	background-color: #DCDCDC;
+}
+table h3 {
+	text-decoration: underline;
+}
+hr { 
+    display: block;
+    margin-top: -20px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-radius: 2px;
+    border-width: 3px;
+    border-color: #74C9E0;
+}
+.school {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: -15px;
+}
